@@ -80,7 +80,7 @@ If you want help with writing markdown, just check out [The Markdown Guide](http
 
 ### Continued development
 
-In the future I sant to focus on the following.
+In the future I want to focus on the following topics:
 
 - [React](https://reactjs.org/) - JA library
 - [Next.js](https://nextjs.org/) - React Framework
