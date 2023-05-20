@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [See my solution URL here](https://github.com/gladstone28/rose-age-calculator-app-main)
+- Live Site URL: [See my live site URL here](https://gladstone28.github.io/rose-age-calculator-app-main/)
 
 ## My process
 
@@ -102,6 +102,5 @@ In the future I sant to focus on the following.
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I Acknowledge that I got inspiration fom -![](https://github.com/arifaisal123/frontend_projects/tree/main/frontend_challenges/age_calculator)
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
