@@ -65,7 +65,7 @@ I learned to add code snippets to markup docs, see below:
 
 
 ```
-![The San Juan Mountains are beautiful!](./san-juan-mountains.webp)
+![The San Juan Mountains are beautiful!](san-juan-mountains.webp)
 
 
 ```
