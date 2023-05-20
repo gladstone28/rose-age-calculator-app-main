@@ -1,0 +1,179 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: "Poppins-Regular";
+  src: url("../assets/fonts/Poppins-Regular.ttf");
+}
+@font-face {
+  font-family: "Poppins-Bold";
+  src: url("../assets/fonts/Poppins-Bold.ttf");
+}
+@font-face {
+  font-family: "Poppins-ExtraBold";
+  src: url("../assets/fonts/Poppins-ExtraBold.ttf");
+}
+@font-face {
+  font-family: "Poppins-ExtraBoldItalic";
+  src: url("../assets/fonts/Poppins-ExtraBoldItalic.ttf");
+}
+body {
+  background-color: #F0F0F0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container .main {
+  background-color: #fff;
+  width: 340px;
+  margin: 0 auto;
+  height: 400px;
+  position: absolute;
+  border-radius: 15px;
+  border-bottom-right-radius: 70px;
+}
+.container .main .date {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 25px;
+  text-align: center;
+}
+.container .main .date label {
+  color: #969696;
+  display: block;
+  font-family: "Poppins-Bold";
+  font-size: 11px;
+  text-align: left;
+  padding-left: 6px;
+}
+.container .main .date .day, .container .main .date .month, .container .main .date .year {
+  display: inline-block;
+  width: 100px;
+}
+.container .main .date .day input, .container .main .date .month input, .container .main .date .year input {
+  width: 90px;
+  height: 46px;
+  border: 1px solid #969696;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  background-color: #fff;
+  font-family: "Poppins-Bold";
+}
+.container .main .date .day input::placeholder, .container .main .date .month input::placeholder, .container .main .date .year input::placeholder {
+  font-family: "Poppins-Bold";
+  font-size: 18px;
+}
+.container .main .date .day span, .container .main .date .month span, .container .main .date .year span {
+  color: rgb(236, 30, 30);
+  font-size: 7px;
+  font-style: italic;
+  visibility: hidden;
+  font-family: "Poppins-Regular";
+}
+.container .main section {
+  padding-top: 15px;
+}
+.container .main section .age {
+  padding-left: 15px;
+}
+.container .main section .age_number {
+  color: #7D50FA;
+  font-family: "Poppins-ExtraBoldItalic";
+  font-size: 44px;
+}
+.container .main section .age_text {
+  color: #000;
+  font-family: "Poppins-ExtraBoldItalic";
+  font-size: 44px;
+}
+.container .main .line {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 148px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background-color: #969696;
+}
+.container .main .purple-icon {
+  background-color: #7D50FA;
+  border: 2px solid #7D50FA;
+  border-radius: 80px;
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container .main .purple-icon img {
+  width: 28px;
+  height: 28px;
+}
+.container .attribution {
+  position: absolute;
+  bottom: 2px;
+  font-size: 8px;
+  text-align: center;
+}
+.container .attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@media only screen and (min-width: 1280px) {
+  .container .main {
+    width: 500px;
+    height: 440px;
+    border-radius: 25px;
+    border-bottom-right-radius: 170px;
+  }
+  .container .main .date {
+    justify-content: flex-start;
+    padding-left: 25px;
+  }
+  .container .main .date .month, .container .main .date .year {
+    margin-left: 25px;
+  }
+  .container .main section {
+    padding-top: 4px;
+  }
+  .container .main section .age {
+    padding-left: 35px;
+  }
+  .container .main section .age_number {
+    color: #7D50FA;
+    font-family: "Poppins-ExtraBoldItalic";
+    font-size: 48px;
+  }
+  .container .main section .age_text {
+    color: #000;
+    font-family: "Poppins-ExtraBoldItalic";
+    font-size: 48px;
+  }
+  .container .main .line {
+    top: 145px;
+  }
+  .container .main .purple-icon {
+    border-radius: 80px;
+    width: 70px;
+    height: 70px;
+    margin-left: 385px;
+  }
+  .container .main .purple-icon img {
+    width: 36px;
+    height: 36px;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */
