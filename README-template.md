@@ -91,7 +91,6 @@ In the future I sant to focus on the following.
 - [Example resource 1](https://www.codepen.io) - This helped me to learn to do front-end coding. 
 - [Example resource 2](https://www.codecademy.com/courses/learn-intermediate-css/lessons/learn-css-variables/exercises/learn-css-variables-review) - This is a a good lesson which helped me finally understand css variables.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
@@ -102,5 +101,5 @@ In the future I sant to focus on the following.
 
 ## Acknowledgments
 
-I Acknowledge that I got inspiration from -![](https://www.codecademy.com/courses/intro-to-ui-ux/projects/ui-and-ux-prototype-ridgeline)
+I Acknowledge that I got inspiration from https://www.codecademy.com/courses/intro-to-ui-ux/projects/ui-and-ux-prototype-ridgeline
 
