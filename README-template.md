@@ -102,5 +102,5 @@ In the future I sant to focus on the following.
 
 ## Acknowledgments
 
-I Acknowledge that I got inspiration fom -![](https://github.com/arifaisal123/frontend_projects/tree/main/frontend_challenges/age_calculator)
+I Acknowledge that I got inspiration from -![](https://www.codecademy.com/courses/intro-to-ui-ux/projects/ui-and-ux-prototype-ridgeline)
 
