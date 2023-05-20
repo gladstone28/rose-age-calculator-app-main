@@ -61,6 +61,13 @@ Users should be able to:
 
 I learned to add code snippets to markup docs, see below:
 
+```
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
+
+```
+
+
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
